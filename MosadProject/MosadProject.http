@@ -1,0 +1,6 @@
+@MosadProject_HostAddress = http://localhost:5072
+
+GET {{MosadProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
